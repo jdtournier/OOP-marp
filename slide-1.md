@@ -2,6 +2,8 @@
 marp: true
 ---
 
+<style scoped>section { justify-content: start; }</style>
+
 # Slide 1 <!-- fit -->
 
 ---
