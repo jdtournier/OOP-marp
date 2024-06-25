@@ -1,4 +1,7 @@
-<style scoped>section { justify-content: start; }</style>
+---
+marp: true
+theme: gaia
+---
 
 # OOP Course contents
 
